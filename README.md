@@ -4,6 +4,13 @@ React, TypeScript, Vite로 생성한 프로젝트입니다.
 
 tailwind와 svg 설정이 추가되어 있습니다.
 
+## 사용 방법
+
+1. Git Clone
+2. package.json의 package name 변경
+3. npm install
+4. npm run dev
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
